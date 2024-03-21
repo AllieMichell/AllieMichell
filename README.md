@@ -1,6 +1,6 @@
 
 
-### Hi there, I'm Allie - Flores [Softwaregator][website] 👋
+### Hi there, I'm [Allie - Flores][website] 👋
 <hr/>
 
 <p align="center">
