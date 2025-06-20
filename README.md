@@ -5,7 +5,7 @@
 
 <p align="center">
   <samp>
-    ⚡ 25 Years Old Software Developer making bugs :laughing: <br>
+    ⚡ 26 Years Old Software Developer making bugs :laughing: <br>
     :sparkles: Favorite Tech: JavaScript, React, Node.js and Python <br>
     :notebook_with_decorative_cover: I’m currently learning CS and economy...  🌱 <br>
   </samp>
